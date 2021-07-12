@@ -1,0 +1,28 @@
+print('Hi, welcome to my coding section')
+name = input('what is your name? ')
+Q1 = input("Hello " + name + " how was your day? ")
+if Q1 == "frg":
+    print('we do not care')
+else:
+    print("we do not care")
+color = input(name + " what is your favourite color? ")
+print("bro " + name + " wtf did you really said " + color + " bro that's SHIT and GAY")
+bmi = input('I have a bmi calculator can you test it for me? ')
+if bmi == "yes" + 'Yes' + 'YEs' + 'YES' + 'yES' + 'yeS' + 'YeS' + 'yEs':
+    print('oh thanks I will run it for you now')
+else:
+    print('stfu i will run it for you dont talk to much and do what I say')
+weight_kg = int(input('write your weight in kg: '))
+height_m = float(input('write your height in Meters: '))
+bmi = weight_kg / height_m ** 2
+print('bmi: ')
+print(bmi)
+if bmi < 25:
+    print('shesh ' + name + ' you are FIT but how? ')
+else:
+    print(name + ' you are a FAT BITCH get up and do something')
+Q2 = input('''this is the end what are you waiting for? ''')
+if Q2 == 'erdg':
+    print('shush go touch some grass')
+else:
+    print('shush go touch some grass')
